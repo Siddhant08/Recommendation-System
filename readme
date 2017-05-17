@@ -1,0 +1,6 @@
+Libraries included are
+numpy, scipy
+
+Simple recommendation system using self created dummy values with the help of numpy class in numpy matrices.
+Linear regression and gradient descent methods are used and their functions have been made in the code itself.
+Implemented this with the help of a tutorial on Youtube and various other links.
